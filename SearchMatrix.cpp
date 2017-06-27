@@ -6,7 +6,7 @@ class Solution {
 
 
 /*
-思路：从数组左上角开始查找，若该数等于target，直接返回true；
+思路2：从数组左上角开始查找，若该数等于target，直接返回true；
      如果小于target，进入下一行；否则，进入前一列。
 */
 public:
