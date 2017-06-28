@@ -1,11 +1,11 @@
 /*
-ÌâÄ¿£ºÖØ½¨¶þ²æÊ÷¡£ÊäÈëÄ³¶þ²æÊ÷µÄÇ°Ðò±éÀúºÍÖÐÐò±éÀúµÄ½á¹û£¬ÇëÖØ½¨³ö¸Ã¶þ²æÊ÷¡£
-¼ÙÉèÊäÈëµÄÇ°Ðò±éÀúºÍÖÐÐò±éÀúµÄ½á¹ûÖÐ¶¼²»º¬ÖØ¸´µÄÊý×Ö¡£
-ÀýÈçÊäÈëÇ°Ðò±éÀúÐòÁÐ{1,2,4,7,3,5,6,8}ºÍÖÐÐò±éÀúÐòÁÐ{4,7,2,1,5,3,8,6}£¬ÔòÖØ½¨¶þ²æÊ÷²¢·µ»Ø¡£
+é¢˜ç›®ï¼šé‡å»ºäºŒå‰æ ‘ã€‚è¾“å…¥æŸäºŒå‰æ ‘çš„å‰åºéåŽ†å’Œä¸­åºéåŽ†çš„ç»“æžœï¼Œè¯·é‡å»ºå‡ºè¯¥äºŒå‰æ ‘ã€‚
+å‡è®¾è¾“å…¥çš„å‰åºéåŽ†å’Œä¸­åºéåŽ†çš„ç»“æžœä¸­éƒ½ä¸å«é‡å¤çš„æ•°å­—ã€‚
+ä¾‹å¦‚è¾“å…¥å‰åºéåŽ†åºåˆ—{1,2,4,7,3,5,6,8}å’Œä¸­åºéåŽ†åºåˆ—{4,7,2,1,5,3,8,6}ï¼Œåˆ™é‡å»ºäºŒå‰æ ‘å¹¶è¿”å›žã€‚
 */
 
 /*
-Ë¼Â·£ºµÝ¹é
+æ€è·¯ï¼šé€’å½’
 */
 
 /**
@@ -26,13 +26,13 @@ public:
     	TreeNode* root = new TreeNode(pre[0]);
         int index = 0;
     	int tmp = vin[index];
-        while(tmp != pre[0])     //ÕÒµ½root½áµãÔÚÖÐÐòÐòÁÐÖÐµÄÎ»ÖÃ
+        while(tmp != pre[0])     //æ‰¾åˆ°rootç»“ç‚¹åœ¨ä¸­åºåºåˆ—ä¸­çš„ä½ç½®
             tmp = vin[++index];
 
         vector<int> pre_left, pre_right;
         vector<int> vin_left, vin_right;
         int i = 0, len = vin.size();
-        for( ; i < len; i ++)       //ÖÐÐòÐòÁÐrootÎ»ÖÃÖ®Ç°µÄÎ»ÖÃºÍÖ®ºóµÄÎ»ÖÃ·Ö±ð´æ´¢£¬²¢½«¶ÔÓ¦µÄÇ°ÐòÐòÁÐÒ²´æÆðÀ´
+        for( ; i < len; i ++)       //ä¸­åºåºåˆ—rootä½ç½®ä¹‹å‰å’Œä¹‹åŽçš„åºåˆ—åˆ†åˆ«å­˜å‚¨ï¼Œå¹¶å°†å¯¹åº”çš„å‰åºåºåˆ—ä¹Ÿå­˜èµ·æ¥
         {
             if(i < index)
             {
@@ -45,9 +45,9 @@ public:
                 vin_right.push_back(vin[i]);
             }
         }
-        if(!vin_left.empty())  //×ó×ÓÊ÷²»Îª¿ÕÊ±¹¹Ôì×ó×ÓÊ÷
+        if(!vin_left.empty())  //å·¦å­æ ‘ä¸ä¸ºç©ºæ—¶æž„é€ å·¦å­æ ‘
             root->left = reConstructBinaryTree(pre_left, vin_left);
-        if(!vin_right.empty())   //¹¹ÔìÓÒ×ÓÊ÷
+        if(!vin_right.empty())   //æž„é€ å³å­æ ‘
             root->right = reConstructBinaryTree(pre_right, vin_right);
         return root;
     }
