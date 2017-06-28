@@ -32,7 +32,7 @@ public:
         vector<int> pre_left, pre_right;
         vector<int> vin_left, vin_right;
         int i = 0, len = vin.size();
-        for( ; i < len; i ++)       //中序序列root位置之前的位置和之后的位置分别存储，并将对应的前序序列也存起来
+        for( ; i < len; i ++)       //中序序列root位置之前的序列和之后的序列分别存储，并将对应的前序序列也存起来
         {
             if(i < index)
             {
