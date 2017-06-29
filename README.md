@@ -17,8 +17,8 @@
    用两个队列实现栈[StackWithTwoQueues.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/StackWithTwoQueues.cpp)       
 8、旋转数组的最小数字[MinNumberInRotatedArray.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/MinNumberInRotatedArray.cpp)   
 9、数组中重复的数 [Duplication.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/Duplication.cpp)     
-10、对称的二叉树 [isSymmetrical.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/isSymmetrical.cpp)     
-11、二叉树的下一个结点 [GetNext.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/GetNext.cpp)     
+10、对称的二叉树 [isSymmetrical.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/isSymmetrical.cpp)   
+11、二叉树的下一个结点 [GetNext.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/GetNext.cpp)   
 12、按之字形顺序打印二叉树[Print.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/Print.cpp)    
 
 
