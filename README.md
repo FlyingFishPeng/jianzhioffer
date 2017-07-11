@@ -15,11 +15,15 @@
 6、重建二叉树[ReconstructBinaryTree.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/ReconstructBinaryTree.cpp)   
 7、用两个栈实现队列[QueueWithTwoStacks.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/QueueWithTwoStacks.cpp)   
    用两个队列实现栈[StackWithTwoQueues.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/StackWithTwoQueues.cpp)       
-8、旋转数组的最小数字[MinNumberInRotatedArray.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/MinNumberInRotatedArray.cpp)   
-9、数组中重复的数 [Duplication.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/Duplication.cpp)     
-10、对称的二叉树 [isSymmetrical.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/isSymmetrical.cpp)    
-11、二叉树的下一个结点 [GetNext.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/GetNext.cpp)     
-12、按之字形顺序打印二叉树[Print.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/Print.cpp)    
+8、旋转数组的最小数字[MinNumberInRotatedArray.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/MinNumberInRotatedArray.cpp)     
+9、斐波那契数列[Fibonacci.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/Fibonacci.cpp)   
+   青蛙跳台阶[jumpFloor.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/jumpFloor.cpp)   
+   变态跳台阶[jumpFloorII.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/jumpFloorII.cpp)   
+10、二进制中1的个数[NumberOf1.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/NumberOf1.cpp)  
+11、对称的二叉树 [isSymmetrical.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/isSymmetrical.cpp)    
+12、二叉树的下一个结点 [GetNext.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/GetNext.cpp)     
+13、按之字形顺序打印二叉树[Print.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/Print.cpp)   
+14、数组中重复的数 [Duplication.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/Duplication.cpp)   
 
 
 
