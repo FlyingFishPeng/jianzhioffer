@@ -26,7 +26,8 @@ public:
             	return 1.0;
             else
             {
-            	for(int i = 1; i < -exponent; i++)
+                exponent = (unsigned int)(-exponent);
+            	for(int i = 1; i < exponent; i++)
                 	res *= base;
                 res = 1.0 / res;
             }
