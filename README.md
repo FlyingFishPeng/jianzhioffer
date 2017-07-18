@@ -31,8 +31,10 @@
 18、树的子结构[HasSubtree.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/HasSubtree.cpp)    
 19、二叉树的镜像[Mirror.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/Mirror.cpp)   
 20、顺时针打印矩阵[printMatrix.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/printMatrix.cpp)   
-对称的二叉树 [isSymmetrical.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/isSymmetrical.cpp)      
-二叉树的下一个结点 [GetNext.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/GetNext.cpp)     
+21、包含min函数的栈[StackWithMin.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/StackWithMin.cpp)   
+22、栈的压入、弹出序列[IsPopOrder.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/IsPopOrder.cpp)   
+对称的二叉树 [isSymmetrical.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/isSymmetrical.cpp)   
+二叉树的下一个结点 [GetNext.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/GetNext.cpp)     
 按之字形顺序打印二叉树[Print.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/Print.cpp)   
 数组中重复的数 [Duplication.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/Duplication.cpp)   
 
