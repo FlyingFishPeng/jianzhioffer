@@ -35,6 +35,7 @@
 22、栈的压入、弹出序列[IsPopOrder.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/IsPopOrder.cpp)   
 23、从上往下打印二叉树[PrintFromTopToBottom.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/PrintFromTopToBottom.cpp)  
 24、二叉搜索树的后序遍历序列[VerifySquenceOfBST.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/VerifySquenceOfBST.cpp)  
+25、二叉树中和为某一值的路径[FindPath.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/FindPath.cpp)  
 对称的二叉树 [isSymmetrical.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/isSymmetrical.cpp)  
 二叉树的下一个结点 [GetNext.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/GetNext.cpp)  
 按之字形顺序打印二叉树[Print.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/Print.cpp)   
