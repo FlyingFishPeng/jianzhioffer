@@ -40,6 +40,7 @@
 27、二叉搜索树与双向链表[Convert.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/Convert.cpp)   
      对称的二叉树 [isSymmetrical.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/isSymmetrical.cpp)   
 28、字符串的排列[Permutation.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/Permutation.cpp)   
+29、数组中出现次数超过一半的数字[MoreThanHalfNum_Solution.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/MoreThanHalfNum_Solution.cpp)   
 二叉树的下一个结点 [GetNext.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/GetNext.cpp)  
 按之字形顺序打印二叉树[Print.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/Print.cpp)   
 数组中重复的数 [Duplication.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/Duplication.cpp)   
