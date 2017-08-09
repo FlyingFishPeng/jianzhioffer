@@ -2,7 +2,8 @@
   题目：整数中1出现的次数（从1到n整数中1出现的次数）。
 */
 
-/*思路：参考CSDN博客的分析过程，weight为当前要统计的位，round是当前位高位的所有值，former是当前位低位所有值
+/*思路：参考CSDN博客的分析过程，weight为当前要统计的位，round是当前位高位的所有值，former是当前位低位所有值,base
+        表示当前位进位前低位的变化次数
 	若weight为0，则1出现次数为round*base
 	若weight为1，则1出现次数为round*base+former+1
 	若weight大于1，则1出现次数为rount*base+base
