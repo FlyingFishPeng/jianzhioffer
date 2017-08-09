@@ -45,6 +45,7 @@
 31、连续子数组的最大和[FindGreatestSumOfSubArray.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/FindGreatestSumOfSubArray.cpp)   
     最长回文子串[getLongestPalindrome.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/getLongestPalindrome.cpp)  
 32、整数中1出现的次数[NumberOf1Between1AndN_Solution.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/NumberOf1Between1AndN_Solution.cpp)   
+33、把数组排成最小的数[PrintMinNumber.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/PrintMinNumber.cpp)   
 二叉树的下一个结点 [GetNext.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/GetNext.cpp)  
 按之字形顺序打印二叉树[Print.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/Print.cpp)   
 数组中重复的数 [Duplication.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/Duplication.cpp)   
