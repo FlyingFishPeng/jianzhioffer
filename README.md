@@ -47,10 +47,10 @@
 32、整数中1出现的次数[NumberOf1Between1AndN_Solution.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/NumberOf1Between1AndN_Solution.cpp)   
 33、把数组排成最小的数[PrintMinNumber.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/PrintMinNumber.cpp)  
 34、丑数[GetUglyNumber_Solution.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/GetUglyNumber_Solution.cpp)   
-35、第一个只出现一次的字符[FirstNotRepeatingChar.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/FirstNotRepeatingChar.cpp)   
-二叉树的下一个结点 [GetNext.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/GetNext.cpp)  
-按之字形顺序打印二叉树[Print.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/Print.cpp)   
-数组中重复的数 [Duplication.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/Duplication.cpp)   
+35、第一个只出现一次的字符[FirstNotRepeatingChar.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/FirstNotRepeatingChar.cpp)     
+二叉树的下一个结点 [GetNext.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/GetNext.cpp)    
+按之字形顺序打印二叉树[Print.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/Print.cpp)     
+数组中重复的数 [Duplication.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/Duplication.cpp)     
 
 
 
