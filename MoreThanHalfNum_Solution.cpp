@@ -59,7 +59,7 @@ public:
         int index = partition(numbers, start, end);
         while(index != middle)
         {
-        	 if(index > middle)   //中间的点在左边，在左半边寻找
+             if(index > middle)   //中间的点在左边，在左半边寻找
              {
                  end = index - 1;
                  index = partition(numbers, start, end);
@@ -90,9 +90,9 @@ public:
         {
             while((end > start) && numbers[start] >= base)   //头指针左移，直到找到比base小的数
             	-- end;
-        	swap(numbers[start], numbers[end]);
+            swap(numbers[start], numbers[end]);
 
-        	while((start < end) && numbers[end] <= base)
+            while((start < end) && numbers[end] <= base)
             	++ start;
             swap(numbers[start], numbers[end]);
         }
