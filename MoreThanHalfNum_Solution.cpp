@@ -1,13 +1,13 @@
 /*
-  ÌâÄ¿£ºÊý×éÖÐ³öÏÖ´ÎÊý³¬¹ýÒ»°ëµÄÊý×Ö¡£Êý×éÖÐÓÐÒ»¸öÊý×Ö³öÏÖµÄ´ÎÊý³¬¹ýÊý×é³¤¶ÈµÄÒ»°ë£¬
-        ÇëÕÒ³öÕâ¸öÊý×Ö¡£ÀýÈçÊäÈëÒ»¸ö³¤¶ÈÎª9µÄÊý×é{1,2,3,2,2,2,5,4,2}¡£ÓÉÓÚÊý×Ö2ÔÚÊý
-        ×éÖÐ³öÏÖÁË5´Î£¬³¬¹ýÊý×é³¤¶ÈµÄÒ»°ë£¬Òò´ËÊä³ö2¡£Èç¹û²»´æÔÚÔòÊä³ö0¡£
+  é¢˜ç›®ï¼šæ•°ç»„ä¸­å‡ºçŽ°æ¬¡æ•°è¶…è¿‡ä¸€åŠçš„æ•°å­—ã€‚æ•°ç»„ä¸­æœ‰ä¸€ä¸ªæ•°å­—å‡ºçŽ°çš„æ¬¡æ•°è¶…è¿‡æ•°ç»„é•¿åº¦çš„ä¸€åŠï¼Œ
+        è¯·æ‰¾å‡ºè¿™ä¸ªæ•°å­—ã€‚ä¾‹å¦‚è¾“å…¥ä¸€ä¸ªé•¿åº¦ä¸º9çš„æ•°ç»„{1,2,3,2,2,2,5,4,2}ã€‚ç”±äºŽæ•°å­—2åœ¨æ•°
+        ç»„ä¸­å‡ºçŽ°äº†5æ¬¡ï¼Œè¶…è¿‡æ•°ç»„é•¿åº¦çš„ä¸€åŠï¼Œå› æ­¤è¾“å‡º2ã€‚å¦‚æžœä¸å­˜åœ¨åˆ™è¾“å‡º0ã€‚
 */
 
 /*
-  Ë¼Â·1£ºÉèÖÃÁ½¸ö±äÁ¿£¬Ò»¸ö±£´æÊý×Ö£¬Ò»¸ö±£´æ³öÏÖµÄ´ÎÊý£¬ÒÀ´ÎÍùºó±éÀú¡£Èç¹ûµ±Ç°ÖµºÍ
-         ±£´æµÄÊý×ÖÏàµÈ£¬Ôò¼ÆÊýÆ÷¼Ó1£¬·ñÔò¼õ1¡£Èô¼¼ÊõÆ÷Îª0£¬Ôò½«µ±Ç°Êý×Ö´æÈë£¬ÇÒ¼ÆÊýÆ÷
-         ÖÃ1£¬×îºóÈÃ¼ÆÊýÆ÷ÖÃ1µÄÊý¾ÍÊÇËùÇóÖµ¡£ÐèÒªÔÙ±éÀúÒ»´ÎÊý×é½øÐÐÑéÖ¤¡£
+  æ€è·¯1ï¼šè®¾ç½®ä¸¤ä¸ªå˜é‡ï¼Œä¸€ä¸ªä¿å­˜æ•°å­—ï¼Œä¸€ä¸ªä¿å­˜å‡ºçŽ°çš„æ¬¡æ•°ï¼Œä¾æ¬¡å¾€åŽéåŽ†ã€‚å¦‚æžœå½“å‰å€¼å’Œ
+         ä¿å­˜çš„æ•°å­—ç›¸ç­‰ï¼Œåˆ™è®¡æ•°å™¨åŠ 1ï¼Œå¦åˆ™å‡1ã€‚è‹¥è®¡æ•°å™¨ä¸º0ï¼Œåˆ™å°†å½“å‰æ•°å­—å­˜å…¥ï¼Œä¸”è®¡æ•°å™¨
+         ç½®1ï¼Œæœ€åŽè®©è®¡æ•°å™¨ç½®1çš„æ•°å°±æ˜¯æ‰€æ±‚å€¼ã€‚éœ€è¦å†éåŽ†ä¸€æ¬¡æ•°ç»„è¿›è¡ŒéªŒè¯ã€‚
 */
 class Solution {
 public:
@@ -18,17 +18,17 @@ public:
         int res = numbers[0], sum = 1, len = numbers.size();
         for(int i = 1; i < len; i++)
         {
-            if(numbers[i] == res)    //µ±Ç°ÖµºÍresÖÐµÄÖµÏàµÈ£¬Ôò½«sum¼Ó1
+            if(numbers[i] == res)    //å½“å‰å€¼å’Œresä¸­çš„å€¼ç›¸ç­‰ï¼Œåˆ™å°†sumåŠ 1
                  ++sum;
             else
             	--sum;
-			if(sum == 0)     //Èç¹ûsumÎª0,res´æÈëÐÂÊý×ÖÖ®ºó½«sumÖÃ1
+	    if(sum == 0)     //å¦‚æžœsumä¸º0,reså­˜å…¥æ–°æ•°å­—ä¹‹åŽå°†sumç½®1
             {
             	res = numbers[i];
                 sum = 1;
             }
         }
-        //×îºó°ÑresÉèÖÃÎª1µÄÖÃ¾ÍÊÇËùÇóµÄÖµ£¬´ËÊ±»¹ÐèÒª½øÒ»²½¼ìÑé
+        //æœ€åŽæŠŠresè®¾ç½®ä¸º1çš„ç½®å°±æ˜¯æ‰€æ±‚çš„å€¼ï¼Œæ­¤æ—¶è¿˜éœ€è¦è¿›ä¸€æ­¥æ£€éªŒ
         int times = 0;
         for(int i = 0; i < len; i++)
         {
@@ -42,10 +42,10 @@ public:
 };
 
 /*
-  Ë¼Â·2£º°´ÕÕ¿ìÅÅµÄË¼Ïë£¬³öÏÖ´ÎÊý×î¶àµÄÄÇ¸öÊýÔÚÅÅÐòµÄ¹ý³ÌÖÐ±ØÈ»Î»ÓÚÖÐ¼äÎ»ÖÃ£¬
-         ¿ÉÒÔ¸ù¾ÝÃ¿´ÎÅÅÐòµÄ½á¹ûÀ´ÅÐ¶ÏÏÂ´ÎÅÅÐòµÄÇø¼ä£¬Èç¹û·µ»ØµÄË÷ÒýÎ»ÖÃ´óÓÚ
-         middle£¬ËµÃ÷ÖÐÎ»ÊýÔÚÇ°°ë¶Î£¬ÔÚÇ°°ë¶ÎÖªÐÐpartition£¬·ñÔòÔÚºó°ë¶ÎÖ´ÐÐ¡£
-         µÝ¹éË¼Ïë¡£
+  æ€è·¯2ï¼šæŒ‰ç…§å¿«æŽ’çš„æ€æƒ³ï¼Œå‡ºçŽ°æ¬¡æ•°æœ€å¤šçš„é‚£ä¸ªæ•°åœ¨æŽ’åºçš„è¿‡ç¨‹ä¸­å¿…ç„¶ä½äºŽä¸­é—´ä½ç½®ï¼Œ
+         å¯ä»¥æ ¹æ®æ¯æ¬¡æŽ’åºçš„ç»“æžœæ¥åˆ¤æ–­ä¸‹æ¬¡æŽ’åºçš„åŒºé—´ï¼Œå¦‚æžœè¿”å›žçš„ç´¢å¼•ä½ç½®å¤§äºŽ
+         middleï¼Œè¯´æ˜Žä¸­ä½æ•°åœ¨å‰åŠæ®µï¼Œåœ¨å‰åŠæ®µçŸ¥è¡Œpartitionï¼Œå¦åˆ™åœ¨åŽåŠæ®µæ‰§è¡Œã€‚
+         é€’å½’æ€æƒ³ã€‚
 */
 class Solution {
 public:
@@ -59,7 +59,7 @@ public:
         int index = partition(numbers, start, end);
         while(index != middle)
         {
-        	 if(index > middle)   //ÖÐ¼äµÄµãÔÚ×ó±ß£¬ÔÚ×ó°ë±ßÑ°ÕÒ
+        	 if(index > middle)   //ä¸­é—´çš„ç‚¹åœ¨å·¦è¾¹ï¼Œåœ¨å·¦åŠè¾¹å¯»æ‰¾
              {
                  end = index - 1;
                  index = partition(numbers, start, end);
@@ -88,7 +88,7 @@ public:
     	int base = numbers[start];
         while(start < end)
         {
-            while((end > start) && numbers[start] >= base)   //Í·Ö¸Õë×óÒÆ£¬Ö±µ½ÕÒµ½±ÈbaseÐ¡µÄÊý
+            while((end > start) && numbers[start] >= base)   //å¤´æŒ‡é’ˆå·¦ç§»ï¼Œç›´åˆ°æ‰¾åˆ°æ¯”baseå°çš„æ•°
             	-- end;
         	swap(numbers[start], numbers[end]);
 
