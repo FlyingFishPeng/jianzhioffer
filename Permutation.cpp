@@ -1,13 +1,13 @@
 /*
-  ÌâÄ¿£º×Ö·û´®µÄÅÅÁÐ¡£ÊäÈëÒ»¸ö×Ö·û´®,°´×ÖµäÐò´òÓ¡³ö¸Ã×Ö·û´®ÖÐ×Ö·ûµÄËùÓÐÅÅÁÐ¡£
-        ÀýÈçÊäÈë×Ö·û´®abc,Ôò´òÓ¡³öÓÉ×Ö·ûa,b,cËùÄÜÅÅÁÐ³öÀ´µÄËùÓÐ×Ö·û´®abc,acb,bac,bca,cabºÍcba¡£
-        ÊäÈëÒ»¸ö×Ö·û´®,³¤¶È²»³¬¹ý9(¿ÉÄÜÓÐ×Ö·ûÖØ¸´),×Ö·ûÖ»°üÀ¨´óÐ¡Ð´×ÖÄ¸¡£
+  é¢˜ç›®ï¼šå­—ç¬¦ä¸²çš„æŽ’åˆ—ã€‚è¾“å…¥ä¸€ä¸ªå­—ç¬¦ä¸²,æŒ‰å­—å…¸åºæ‰“å°å‡ºè¯¥å­—ç¬¦ä¸²ä¸­å­—ç¬¦çš„æ‰€æœ‰æŽ’åˆ—ã€‚
+        ä¾‹å¦‚è¾“å…¥å­—ç¬¦ä¸²abc,åˆ™æ‰“å°å‡ºç”±å­—ç¬¦a,b,cæ‰€èƒ½æŽ’åˆ—å‡ºæ¥çš„æ‰€æœ‰å­—ç¬¦ä¸²abc,acb,bac,bca,cabå’Œcbaã€‚
+        è¾“å…¥ä¸€ä¸ªå­—ç¬¦ä¸²,é•¿åº¦ä¸è¶…è¿‡9(å¯èƒ½æœ‰å­—ç¬¦é‡å¤),å­—ç¬¦åªåŒ…æ‹¬å¤§å°å†™å­—æ¯ã€‚
 */
 
 /*
-  Ë¼Â·£ºÏÈ°ÑµÚÒ»¸ö×Ö·ûºÍÖ®ºóµÄËùÓÐ×Ö·û½»»»£¬È»ºó¹Ì¶¨µÚÒ»¸ö×Ö·û£¬ÇóºóÃæ×Ö·ûµÄÈ«²¿ÅÅÁÐ¡£
-        ºóÃæµÄ×Ö·ûÒ²°´ÕÕÕâÖÖË¼ÏëÅÅÁÐ¡£×Ü½áÏÂÀ´£ºµÝ¹é¡£ÌâÄ¿ÒªÇó°´ÕÕ×ÖµäÐòÅÅÁÐ£¬ÔòÅÅÁÐÍêÖ®ºó
-        ÐèÒªÊ¹ÓÃSTLµÄsort¡¢uniqueºÍeraseº¯Êý½øÐÐÅÅÐòºÍÐÞ¼ô¡£
+  æ€è·¯ï¼šå…ˆæŠŠç¬¬ä¸€ä¸ªå­—ç¬¦å’Œä¹‹åŽçš„æ‰€æœ‰å­—ç¬¦äº¤æ¢ï¼Œç„¶åŽå›ºå®šç¬¬ä¸€ä¸ªå­—ç¬¦ï¼Œæ±‚åŽé¢å­—ç¬¦çš„å…¨éƒ¨æŽ’åˆ—ã€‚
+        åŽé¢çš„å­—ç¬¦ä¹ŸæŒ‰ç…§è¿™ç§æ€æƒ³æŽ’åˆ—ã€‚æ€»ç»“ä¸‹æ¥ï¼šé€’å½’ã€‚é¢˜ç›®è¦æ±‚æŒ‰ç…§å­—å…¸åºæŽ’åˆ—ï¼Œåˆ™æŽ’åˆ—å®Œä¹‹åŽ
+        éœ€è¦ä½¿ç”¨STLçš„sortã€uniqueå’Œeraseå‡½æ•°è¿›è¡ŒæŽ’åºå’Œä¿®å‰ªã€‚
 */
 
 class Solution {
@@ -19,7 +19,7 @@ public:
 
         int len = str.size();
         PermutationHelp(str, res, 0, len);
-        sort(res.begin(), res.end());      //ÏÈÅÅÐò£¬ÔÙÓÃunique°ÑÖØ¸´×Ö·û´®ÒÆ¶¯µ½ÈÝÆ÷×îºóÃæ£¬×îºóÓÃeraseÉ¾³ý¶àÓàµÄ
+        sort(res.begin(), res.end());      //å…ˆæŽ’åºï¼Œå†ç”¨uniqueæŠŠé‡å¤å­—ç¬¦ä¸²ç§»åŠ¨åˆ°å®¹å™¨æœ€åŽé¢ï¼Œæœ€åŽç”¨eraseåˆ é™¤å¤šä½™çš„
         auto itr = unique(res.begin(), res.end());
         res.erase(itr, res.end());
         return res;
@@ -31,9 +31,9 @@ public:
         for(int i = begin; i < len; i++)
         {
              res.push_back(tmpstr);
-             swap(tmpstr[begin], tmpstr[i]);   //½»»»µÚÒ»¸öÔªËØºÍµÚi¸öÔªËØ
-        	 PermutationHelp(tmpstr, res, begin + 1, len);
-             swap(tmpstr[begin], tmpstr[i]);   //»»»ØÀ´£¬Èç¹û²»»»»ØÀ´£¬Ö´ÐÐµ½ÏÂÒ»¸öiµÄÊ±ºòÏàµ±ÓÚÊÇÔÚ´Ë´Î½»»»µÄ»ù´¡ÉÏ½»»»µÚIºÍµÚbegin¸öÔªËØ£¬ÖØ¸´
+             swap(tmpstr[begin], tmpstr[i]);   //äº¤æ¢ç¬¬ä¸€ä¸ªå…ƒç´ å’Œç¬¬iä¸ªå…ƒç´ 
+        	   PermutationHelp(tmpstr, res, begin + 1, len);
+             swap(tmpstr[begin], tmpstr[i]);   //æ¢å›žæ¥ï¼Œå¦‚æžœä¸æ¢å›žæ¥ï¼Œæ‰§è¡Œåˆ°ä¸‹ä¸€ä¸ªiçš„æ—¶å€™ç›¸å½“äºŽæ˜¯åœ¨æ­¤æ¬¡äº¤æ¢çš„åŸºç¡€ä¸Šäº¤æ¢ç¬¬Iå’Œç¬¬beginä¸ªå…ƒç´ ï¼Œé‡å¤
         }
     }
 };
