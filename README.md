@@ -55,6 +55,9 @@
 
 
 49、把字符串转换成正数（实现atoi函数）[StrToInt.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/StrToInt.cpp)   
+
+
+无重复字符的最长子字符串[lengthOfLongestSubstring.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/lengthOfLongestSubstring.cpp)   
 二叉树的下一个结点 [GetNext.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/GetNext.cpp)    
 按之字形顺序打印二叉树[Print.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/Print.cpp)   
 数组中重复的数 [Duplication.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/Duplication.cpp)     
