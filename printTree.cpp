@@ -17,28 +17,31 @@ struct TreeNode {
 };
 */
 
-class TreePrinter {
+class TreePrinter
+{
 public:
-    vector<vector<int> > printTree(TreeNode* root) {
-        // write code here
-        vector<vector<int>>result;
-    if (root == NULL)return result;
-    queue<TreeNode*>Q;
-    Q.push(root);
-    while (!Q.empty())
+    vector<vector<int> > printTree(TreeNode* root)
     {
-        int size = Q.size();
-        vector<int>row;
-        for (int i = 0; i < size; i++)
+        vector<vector<int>>result;
+        if (root == NULL)return result;
+        queue<TreeNode *> Q;
+        Q.push(root);
+        while (!Q.empty())
         {
-            TreeNode* cur = Q.front();
-            Q.pop();
-            row.push_back(cur->val);
-            if (cur->left)Q.push(cur->left);
-            if (cur->right)Q.push(cur->right);
+            int size = Q.size();
+            vector<int>row;
+            for (int i = 0; i < size; i++)
+            {
+                TreeNode* cur = Q.front();
+                Q.pop();
+                row.push_back(cur->val);   //打印
+                if (cur->left)
+                    Q.push(cur->left);
+                if (cur->right)
+                    Q.push(cur->right);
+            }
+            result.push_back(row);  //将该层压入结果矩阵
         }
-        result.push_back(row);
-    }
-    return result;
+        return result;
     }
 };
