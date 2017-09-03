@@ -47,8 +47,8 @@
 字符串的旋转词[chkRotation.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/chkRotation.cpp)      
 两个有序数组的第K大数[find_kth.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/find_kth.cpp)   
 
-- 二叉树
-二叉树的下一个结点 [GetNext.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/GetNext.cpp)    
+### 二叉树   
+##二叉树的下一个结点 [GetNext.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/GetNext.cpp)    
 按之字形顺序打印二叉树[Print.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/Print.cpp)   
 二叉树深度优先遍历[DepthFirstTravel](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/DepthFirstTravel.cpp)   
 二叉树按层次打印（广度优先）[printTree.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/printTree.cpp)   
