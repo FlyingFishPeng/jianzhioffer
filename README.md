@@ -49,7 +49,7 @@
 
 ### 二叉树   
 1、二叉树的下一个结点 [GetNext.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/GetNext.cpp)       
-2、按之字形顺序打印二叉树[Print.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/Print.cpp)   
+2、按之字形顺序打印二叉树[Print.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/Print.cpp)   
 3、二叉树深度优先遍历[DepthFirstTravel](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/DepthFirstTravel.cpp)   
 4、二叉树按层次打印（广度优先）[printTree.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/printTree.cpp)   
 5、二叉树叶子节点个数[GetLeafNodeNum.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/GetLeafNodeNum.cpp)   
