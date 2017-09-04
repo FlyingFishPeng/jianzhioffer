@@ -67,7 +67,7 @@
 16、对称的二叉树（判断）[isSymmetrical.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/isSymmetrical.cpp)  
 17、树的子结构[HasSubtree.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/HasSubtree.cpp)  
 18、平衡二叉树[IsBalanced_Solution.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/IsBalanced_Solution.cpp)  
-19、二叉树中和为某一值的路径[FindPath.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/FindPath.cpp)  
+19、二叉树中和为某一值的路径[FindPath.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/FindPath.cpp)  
 20、二叉搜索树与双向链表[Convert.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/Convert.cpp)  
 21、序列化二叉树[Serialize.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/Serialize.cpp)  
 22、二叉树两个结点最低公共祖先[findLCA.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/findLCA.cpp)  
