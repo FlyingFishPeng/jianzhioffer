@@ -1,4 +1,7 @@
-//ÓÉºóĞòºÍÖĞĞòÖØ½¨¶ş²æÊ÷
+/*
+   é¢˜ç›®ï¼šé‡å»ºäºŒå‰æ ‘ï¼ˆä¸­åº+ååºï¼‰ã€‚
+*/
+
 typedef vector<int>::iterator Iter;
 TreeNode* buildTree2(Iter pbegin, Iter pend, Iter ibegin, Iter iend)
 {
