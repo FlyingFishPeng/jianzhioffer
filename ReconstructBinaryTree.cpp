@@ -20,9 +20,9 @@
 class Solution {
 public:
     TreeNode* reConstructBinaryTree(vector<int> pre,vector<int> vin) {
-    	if(pre.size()== 0 || vin.size() == 0)
+    	if(pre.size()== 0 || vin.size() == 0 || pre.size() != vin.size())
         	return nullptr;
-
+        
     	TreeNode* root = new TreeNode(pre[0]);
         int index = 0;
     	int tmp = vin[index];
