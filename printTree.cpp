@@ -61,13 +61,12 @@ public:
         while(!tmp.empty())
         {
             res.push_back(tmp.front()->val);    //队列第一个元素存入数组
-
+            tmp.pop();     //弹出第一个元素
+          
             if(tmp.front()->left)           //队列第一个元素是左结点放入队列
                 tmp.push(tmp.front()->left);
             if(tmp.front()->right)          //右结点放入队列
                 tmp.push(tmp.front()->right);
-
-            tmp.pop();     //弹出第一个元素
         }
      	return res;
     }
