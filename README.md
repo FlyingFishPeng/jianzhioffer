@@ -48,20 +48,20 @@
 两个有序数组的第K大数[find_kth.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/find_kth.cpp)   
 
 ### 二叉树   
-1、二叉树的下一个结点 [GetNext.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/GetNext.cpp)     
+1、二叉树的下一个结点 [GetNext.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/GetNext.cpp)  
 2、按之字形顺序打印二叉树[Print.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/Print.cpp)   
 3、二叉树深度优先遍历[DepthFirstTravel](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/DepthFirstTravel.cpp)  
 4、二叉树按层次打印（广度优先）[printTree.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/printTree.cpp)  
-6、二叉树创建、前中后序遍历[Tree.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/Tree.cpp)  
-5、二叉树叶子节点个数[GetLeafNodeNum.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/GetLeafNodeNum.cpp)  
-25、二叉树的深度[TreeDepth.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/TreeDepth.cpp)  
-10、二叉搜索树的后序遍历序列[VerifySquenceOfBST.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/VerifySquenceOfBST.cpp)  
-7、重建二叉树[ReconstructBinaryTree.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/ReconstructBinaryTree.cpp)  
-8、树的子结构[HasSubtree.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/HasSubtree.cpp)  
-9、二叉树的镜像（变换）[Mirror.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/Mirror.cpp)
-13、对称的二叉树（判断）[isSymmetrical.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/isSymmetrical.cpp)  
-11、二叉树中和为某一值的路径[FindPath.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/FindPath.cpp)  
-12、二叉搜索树与双向链表[Convert.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/Convert.cpp)  
+5、二叉树创建、前中后序遍历[Tree.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/Tree.cpp)  
+6、二叉搜索树的后序遍历序列[VerifySquenceOfBST.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/VerifySquenceOfBST.cpp)  
+7、二叉树叶子节点个数[GetLeafNodeNum.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/GetLeafNodeNum.cpp)  
+8、二叉树的深度[TreeDepth.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/TreeDepth.cpp)  
+9、重建二叉树[ReconstructBinaryTree.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/ReconstructBinaryTree.cpp)  
+10、树的子结构[HasSubtree.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/HasSubtree.cpp)  
+11、二叉树的镜像（变换）[Mirror.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/Mirror.cpp)  
+12、对称的二叉树（判断）[isSymmetrical.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/isSymmetrical.cpp)  
+13、二叉树中和为某一值的路径[FindPath.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/FindPath.cpp)  
+14、二叉搜索树与双向链表[Convert.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/Convert.cpp)  
 
 
 
