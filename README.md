@@ -59,7 +59,7 @@
 9、重建二叉树[ReconstructBinaryTree.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/ReconstructBinaryTree.cpp)  
 10、树的子结构[HasSubtree.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/HasSubtree.cpp)  
 11、二叉树的镜像（变换）[Mirror.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/Mirror.cpp)  
-12、对称的二叉树（判断）[isSymmetrical.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/isSymmetrical.cpp)  
+12、对称的二叉树（判断）[isSymmetrical.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/isSymmetrical.cpp)  
 13、二叉树中和为某一值的路径[FindPath.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/FindPath.cpp)  
 14、二叉搜索树与双向链表[Convert.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/Convert.cpp)  
 
