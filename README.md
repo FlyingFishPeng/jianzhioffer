@@ -84,7 +84,7 @@
 2、包含min函数的栈[StackWithMin.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/StackWithMin.cpp)   
 3、栈的压入、弹出序列[IsPopOrder.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/IsPopOrder.cpp)   
 4、用两个栈实现队列[QueueWithTwoStacks.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/QueueWithTwoStacks.cpp)  
-5、用两个队列实现栈[StackWithTwoQueues.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/StackWithTwoQueues.cpp)   
+5、用两个队列实现栈[StackWithTwoQueues.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/StackWithTwoQueues.cpp)  
 6、实现赋值运算符函数 [operator.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/operator.cpp)  
 7、创建单例模式 [CreateSingleton.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/CreateSingleton.cpp)  
 
