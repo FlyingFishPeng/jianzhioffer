@@ -81,9 +81,9 @@
 -----------------------------------
 ### 动态规划
 
-1、最长上升子序列[LIS.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/LIS.cpp)  
+1、最长上升子序列[LIS.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/LIS.cpp)  
 2、最长公共子序列[longest_common_subseq.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/longest_common_subseq.cpp)  
-3、最长公共子串[longest_common_substring.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/longest_common_substring.cpp)  
+3、最长公共子串[longest_common_substring.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/longest_common_substring.cpp)  
 4、最长回文子串[getLongestPalindrome.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/getLongestPalindrome.cpp)  
 
 ------------------------------------------
