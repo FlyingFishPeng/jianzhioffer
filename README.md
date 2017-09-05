@@ -24,7 +24,6 @@
 14、数组中重复的数 [Duplication.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/Duplication.cpp)  
 
 --------------------------------
-
 ### 链表
 
 5、从尾到头打印链表[PrintList.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/PrintList.cpp)     
@@ -38,6 +37,7 @@
 10、二进制中1的个数[NumberOf1.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/NumberOf1.cpp)   
 11、数值的整数次方[Power.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/Power.cpp)   
 12、打印1到最大的n位数[PrintNumber.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/PrintNumber.cpp)   
+
 --------------------------------------------
 ### 字符串
 
@@ -47,7 +47,8 @@
 4、字符串的旋转词[chkRotation.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/chkRotation.cpp)  
 5、无重复字符的最长子字符串[lengthOfLongestSubstring.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/lengthOfLongestSubstring.cpp)  
 6、最长回文子串[getLongestPalindrome.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/getLongestPalindrome.cpp)  
-----------------
+
+------------------------------------
 ### 二叉树   
 
 1、二叉树的深度[TreeDepth.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/TreeDepth.cpp)  
@@ -72,6 +73,7 @@
 20、二叉搜索树与双向链表[Convert.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/Convert.cpp)  
 21、序列化二叉树[Serialize.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/Serialize.cpp)  
 22、二叉树两个结点最低公共祖先[findLCA.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/findLCA.cpp)  
+
 ------------------------------------------
 ### 其他
 
