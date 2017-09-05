@@ -22,9 +22,7 @@
 12、数组中出现次数超过一半的数字[MoreThanHalfNum_Solution.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/MoreThanHalfNum_Solution.cpp)  
 13、最小的K个数[GetLeastNumbers_Solution.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/GetLeastNumbers_Solution.cpp)  
 14、数组中重复的数 [Duplication.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/Duplication.cpp)  
-
-
-
+--------------------------------
 ### 链表
 
 5、从尾到头打印链表[PrintList.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/PrintList.cpp)     
@@ -37,10 +35,8 @@
 37、两个链表的第一个公共结点[FindFirstCommonNode.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/FindFirstCommonNode.cpp)  
 10、二进制中1的个数[NumberOf1.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/NumberOf1.cpp)   
 11、数值的整数次方[Power.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/Power.cpp)   
-12、打印1到最大的n位数[PrintNumber.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/PrintNumber.cpp)   
-
-
-    
+12、打印1到最大的n位数[PrintNumber.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/PrintNumber.cpp)   
+--------------------------------------------
 ### 字符串
 
 1、字符串的全排列[Permutation.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/Permutation.cpp)  
@@ -48,9 +44,8 @@
 3、把字符串转换成正数（实现atoi函数）[StrToInt.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/StrToInt.cpp)  
 4、字符串的旋转词[chkRotation.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/chkRotation.cpp)  
 5、无重复字符的最长子字符串[lengthOfLongestSubstring.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/lengthOfLongestSubstring.cpp)  
-6、最长回文子串[getLongestPalindrome.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/getLongestPalindrome.cpp)  
-
-
+6、最长回文子串[getLongestPalindrome.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/getLongestPalindrome.cpp)  
+----------------
 ### 二叉树   
 
 1、二叉树的深度[TreeDepth.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/TreeDepth.cpp)  
@@ -74,9 +69,8 @@
 19、二叉树中和为某一值的路径[FindPath.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/FindPath.cpp)  
 20、二叉搜索树与双向链表[Convert.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/Convert.cpp)  
 21、序列化二叉树[Serialize.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/Serialize.cpp)  
-22、二叉树两个结点最低公共祖先[findLCA.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/findLCA.cpp)  
-
-
+22、二叉树两个结点最低公共祖先[findLCA.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/findLCA.cpp)  
+------------------------------------------
 ### 其他
 
 1、顺时针打印矩阵[printMatrix.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/printMatrix.cpp)   
