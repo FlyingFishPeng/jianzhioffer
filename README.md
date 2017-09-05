@@ -26,17 +26,17 @@
 --------------------------------
 ### 链表
 
-5、从尾到头打印链表[PrintList.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/PrintList.cpp)     
-13、在O(1)的时间删除链表结点[DeleteNode.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/DeleteNode.cpp)   
-14、创建链表[CreateList.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/CreateList.cpp)    
-15、链表中倒数第k个结点[FindKthToTail.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/FindKthToTail.cpp)   
-16、反转链表[ReverseList.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/ReverseList.cpp)   
-17、合并两个排序的链表[MergeList.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/MergeList.cpp)   
-26、复杂链表的复制[RandomListNode.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/RandomListNode.cpp)   
-37、两个链表的第一个公共结点[FindFirstCommonNode.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/FindFirstCommonNode.cpp)  
-10、二进制中1的个数[NumberOf1.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/NumberOf1.cpp)   
-11、数值的整数次方[Power.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/Power.cpp)   
-12、打印1到最大的n位数[PrintNumber.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/PrintNumber.cpp)   
+1、从尾到头打印链表[PrintList.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/PrintList.cpp)  
+2、在O(1)的时间删除链表结点[DeleteNode.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/DeleteNode.cpp)  
+3、创建链表[CreateList.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/CreateList.cpp)  
+4、链表中倒数第k个结点[FindKthToTail.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/FindKthToTail.cpp)  
+5、反转链表[ReverseList.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/ReverseList.cpp)  
+6、合并两个排序的链表[MergeList.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/MergeList.cpp)  
+7、复杂链表的复制[RandomListNode.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/RandomListNode.cpp)  
+8、两个链表的第一个公共结点[FindFirstCommonNode.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/FindFirstCommonNode.cpp)  
+9、二进制中1的个数[NumberOf1.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/NumberOf1.cpp)  
+10、数值的整数次方[Power.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/Power.cpp)  
+11、打印1到最大的n位数[PrintNumber.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/PrintNumber.cpp)   
 
 --------------------------------------------
 ### 字符串
@@ -80,13 +80,13 @@
 1、顺时针打印矩阵[printMatrix.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/printMatrix.cpp)   
 2、包含min函数的栈[StackWithMin.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/StackWithMin.cpp)   
 3、栈的压入、弹出序列[IsPopOrder.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/IsPopOrder.cpp)   
-4、用两个栈实现队列[QueueWithTwoStacks.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/QueueWithTwoStacks.cpp)   
-    用两个队列实现栈[StackWithTwoQueues.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/StackWithTwoQueues.cpp)   
-5、整数中1出现的次数[NumberOf1Between1AndN_Solution.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/NumberOf1Between1AndN_Solution.cpp)   
-6、两个有序数组的第K大数[find_kth.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/find_kth.cpp)   
-7、丑数[GetUglyNumber_Solution.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/GetUglyNumber_Solution.cpp)   
-8、实现赋值运算符函数 [operator.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/operator.cpp)  
-9、创建单例模式 [CreateSingleton.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/CreateSingleton.cpp)  
+4、用两个栈实现队列[QueueWithTwoStacks.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/QueueWithTwoStacks.cpp)  
+5、用两个队列实现栈[StackWithTwoQueues.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/StackWithTwoQueues.cpp)   
+5、整数中1出现的次数[NumberOf1Between1AndN_Solution.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/NumberOf1Between1AndN_Solution.cpp)  
+6、两个有序数组的第K大数[find_kth.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/find_kth.cpp)  
+7、丑数[GetUglyNumber_Solution.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/GetUglyNumber_Solution.cpp)  
+8、实现赋值运算符函数 [operator.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/operator.cpp)  
+10、创建单例模式 [CreateSingleton.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/CreateSingleton.cpp)  
 
 
 
