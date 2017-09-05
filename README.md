@@ -23,8 +23,11 @@
 13、最小的K个数[GetLeastNumbers_Solution.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/GetLeastNumbers_Solution.cpp)  
 14、数组中重复的数 [Duplication.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/Duplication.cpp)  
 15、整数中1出现的次数[NumberOf1Between1AndN_Solution.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/NumberOf1Between1AndN_Solution.cpp)  
-16、两个有序数组的第K大数[find_kth.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/find_kth.cpp)  
-17、丑数[GetUglyNumber_Solution.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/GetUglyNumber_Solution.cpp)  
+16、二进制中1的个数[NumberOf1.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/NumberOf1.cpp)  
+17、两个有序数组的第K大数[find_kth.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/find_kth.cpp)  
+18、丑数[GetUglyNumber_Solution.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/GetUglyNumber_Solution.cpp)  
+19、数值的整数次方[Power.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/Power.cpp)  
+20、打印1到最大的n位数[PrintNumber.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/PrintNumber.cpp)   
 
 --------------------------------
 ### 链表
@@ -37,9 +40,7 @@
 6、合并两个排序的链表[MergeList.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/MergeList.cpp)  
 7、复杂链表的复制[RandomListNode.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/RandomListNode.cpp)  
 8、两个链表的第一个公共结点[FindFirstCommonNode.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/FindFirstCommonNode.cpp)  
-9、二进制中1的个数[NumberOf1.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/NumberOf1.cpp)  
-10、数值的整数次方[Power.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/Power.cpp)  
-11、打印1到最大的n位数[PrintNumber.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/PrintNumber.cpp)   
+
 
 --------------------------------------------
 ### 字符串
@@ -49,7 +50,7 @@
 3、把字符串转换成正数（实现atoi函数）[StrToInt.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/StrToInt.cpp)  
 4、字符串的旋转词[chkRotation.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/chkRotation.cpp)  
 5、无重复字符的最长子字符串[lengthOfLongestSubstring.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/lengthOfLongestSubstring.cpp)  
-6、最长回文子串[getLongestPalindrome.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/getLongestPalindrome.cpp)  
+
 
 ------------------------------------
 ### 二叉树   
@@ -77,6 +78,14 @@
 21、序列化二叉树[Serialize.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/Serialize.cpp)  
 22、二叉树两个结点最低公共祖先[findLCA.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/findLCA.cpp)  
 
+-----------------------------------
+### 动态规划
+
+1、最长上升子序列[LIS.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/LIS.cpp)  
+2、最长公共子序列[longest_common_subseq.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/longest_common_subseq.cpp)  
+3、最长公共子串[longest_common_substring.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/longest_common_substring.cpp)  
+4、最长回文子串[getLongestPalindrome.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/getLongestPalindrome.cpp)  
+
 ------------------------------------------
 ### 其他
 
@@ -87,6 +96,8 @@
 5、用两个队列实现栈[StackWithTwoQueues.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/StackWithTwoQueues.cpp)  
 6、实现赋值运算符函数 [operator.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/operator.cpp)  
 7、创建单例模式 [CreateSingleton.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/CreateSingleton.cpp)  
+8、线程安全单例模式[CSingleton.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/CSingleton.cpp)  
+
 
 
 
