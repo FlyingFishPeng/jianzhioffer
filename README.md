@@ -9,13 +9,13 @@
 ### 数组
 
 1、二维数组中的查找 [SearchMatrix.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/SearchMatrix.cpp)  
-2、替换空格 [ReplaceSpace.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/ReplaceSpace.cpp)  
+2、替换空格 [ReplaceSpace.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/ReplaceSpace.cpp)  
 3、旋转数组的最小数字[MinNumberInRotatedArray.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/MinNumberInRotatedArray.cpp)  
 4、斐波那契数列[Fibonacci.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/Fibonacci.cpp)   
-5、青蛙跳台阶[jumpFloor.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/jumpFloor.cpp)   
-6、变态跳台阶[jumpFloorII.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/jumpFloorII.cpp)   
-7、连续子数组的最大和[FindGreatestSumOfSubArray.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/FindGreatestSumOfSubArray.cpp)   
-8、把数组排成最小的数[PrintMinNumber.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/PrintMinNumber.cpp)  
+5、青蛙跳台阶[jumpFloor.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/jumpFloor.cpp)  
+6、变态跳台阶[jumpFloorII.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/jumpFloorII.cpp)  
+7、连续子数组的最大和[FindGreatestSumOfSubArray.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/FindGreatestSumOfSubArray.cpp)  
+8、把数组排成最小的数[PrintMinNumber.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/PrintMinNumber.cpp)  
 9、数组中的逆序对[InversePairs.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/InversePairs.cpp)   
 10、数字在排序数组中出现的次数[GetNumberOfK.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/GetNumberOfK.cpp)  
 11、调整数组顺序使奇数位于偶数前面[reOrderArray.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/reOrderArray.cpp)   
