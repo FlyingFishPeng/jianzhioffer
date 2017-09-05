@@ -22,7 +22,9 @@
 12、数组中出现次数超过一半的数字[MoreThanHalfNum_Solution.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/MoreThanHalfNum_Solution.cpp)  
 13、最小的K个数[GetLeastNumbers_Solution.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/GetLeastNumbers_Solution.cpp)  
 14、数组中重复的数 [Duplication.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/Duplication.cpp)  
+
 --------------------------------
+
 ### 链表
 
 5、从尾到头打印链表[PrintList.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/PrintList.cpp)     
