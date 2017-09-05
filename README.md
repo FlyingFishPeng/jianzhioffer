@@ -18,7 +18,7 @@
 8、把数组排成最小的数[PrintMinNumber.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/PrintMinNumber.cpp)  
 9、数组中的逆序对[InversePairs.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/InversePairs.cpp)   
 10、数字在排序数组中出现的次数[GetNumberOfK.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/GetNumberOfK.cpp)  
-11、调整数组顺序使奇数位于偶数前面[reOrderArray.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/reOrderArray.cpp)   
+11、调整数组顺序使奇数位于偶数前面[reOrderArray.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/reOrderArray.cpp)  
 12、数组中出现次数超过一半的数字[MoreThanHalfNum_Solution.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/MoreThanHalfNum_Solution.cpp)  
 13、最小的K个数[GetLeastNumbers_Solution.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/GetLeastNumbers_Solution.cpp)  
 14、数组中重复的数 [Duplication.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/Duplication.cpp)  
