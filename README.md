@@ -43,12 +43,12 @@
     
 ### 字符串
 
-28、字符串的全排列[Permutation.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/Permutation.cpp)   
-30、第一个只出现一次的字符[FirstNotRepeatingChar.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/FirstNotRepeatingChar.cpp)     
-49、把字符串转换成正数（实现atoi函数）[StrToInt.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/StrToInt.cpp)   
-字符串的旋转词[chkRotation.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/chkRotation.cpp)      
-无重复字符的最长子字符串[lengthOfLongestSubstring.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/lengthOfLongestSubstring.cpp)   
-8、最长回文子串[getLongestPalindrome.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/getLongestPalindrome.cpp)  
+1、字符串的全排列[Permutation.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/Permutation.cpp)  
+2、第一个只出现一次的字符[FirstNotRepeatingChar.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/FirstNotRepeatingChar.cpp)  
+3、把字符串转换成正数（实现atoi函数）[StrToInt.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/StrToInt.cpp)  
+4、字符串的旋转词[chkRotation.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/chkRotation.cpp)  
+5、无重复字符的最长子字符串[lengthOfLongestSubstring.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/lengthOfLongestSubstring.cpp)  
+6、最长回文子串[getLongestPalindrome.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/getLongestPalindrome.cpp)  
 
 
 ### 二叉树   
@@ -79,16 +79,16 @@
 
 ### 其他
 
-20、顺时针打印矩阵[printMatrix.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/printMatrix.cpp)   
-21、包含min函数的栈[StackWithMin.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/StackWithMin.cpp)   
-22、栈的压入、弹出序列[IsPopOrder.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/IsPopOrder.cpp)   
-7、用两个栈实现队列[QueueWithTwoStacks.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/QueueWithTwoStacks.cpp)   
+1、顺时针打印矩阵[printMatrix.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/printMatrix.cpp)   
+2、包含min函数的栈[StackWithMin.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/StackWithMin.cpp)   
+3、栈的压入、弹出序列[IsPopOrder.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/IsPopOrder.cpp)   
+4、用两个栈实现队列[QueueWithTwoStacks.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/QueueWithTwoStacks.cpp)   
     用两个队列实现栈[StackWithTwoQueues.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/StackWithTwoQueues.cpp)   
-32、整数中1出现的次数[NumberOf1Between1AndN_Solution.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/NumberOf1Between1AndN_Solution.cpp)   
-两个有序数组的第K大数[find_kth.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/find_kth.cpp)   
-34、丑数[GetUglyNumber_Solution.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/GetUglyNumber_Solution.cpp)   
-1、实现赋值运算符函数 [operator.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/operator.cpp)  
-2、 创建单例模式 [CreateSingleton.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/CreateSingleton.cpp)  
+5、整数中1出现的次数[NumberOf1Between1AndN_Solution.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/NumberOf1Between1AndN_Solution.cpp)   
+6、两个有序数组的第K大数[find_kth.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/find_kth.cpp)   
+7、丑数[GetUglyNumber_Solution.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/GetUglyNumber_Solution.cpp)   
+8、实现赋值运算符函数 [operator.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/operator.cpp)  
+9、创建单例模式 [CreateSingleton.cpp](https://github.com/FlyingFishPeng/jianzhioffer/blob/master/CreateSingleton.cpp)  
 
 
 
