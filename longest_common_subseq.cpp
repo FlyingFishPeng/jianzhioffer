@@ -1,9 +1,9 @@
 /*
-   ÌâÄ¿£º×î³¤¹«¹²×ÓĞòÁĞ
+   é¢˜ç›®ï¼šæœ€é•¿å…¬å…±å­åºåˆ—
 */
 
 /*
-   Ë¼Â·£º¶¯Ì¬¹æ»®
+   æ€è·¯ï¼šåŠ¨æ€è§„åˆ’
 */
 
 
@@ -28,8 +28,9 @@ int main()
     cin >> strB;
     int lenA = strlen(strA);
     int lenB = strlen(strB);
+    //é€’æ¨å…¬å¼ï¼šA[i-1] == B[j-1],åˆ™maxLen[i][j] = maxLen[i-1][j-1] + 1ï¼›å¦åˆ™maxLen[i][j] = max(maxLen[i-1][j], maxLen[i][j-1]);
     for (i=1; i<=lenA; i++)
-        for (j=1; j<=lenB; j++)        //µİÍÆ¹«Ê½£ºA[i] == B[i]ºÍA[i] != B[i]
+        for (j=1; j<=lenB; j++)       
         {
             if (strA[i-1] == strB[j-1])
                 maxLen[i][j] = maxLen[i-1][j-1] + 1;
